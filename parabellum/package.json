@@ -1,0 +1,11 @@
+{
+  "name": "parabellum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gfreeman <vetalzak@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
